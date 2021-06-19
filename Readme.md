@@ -54,7 +54,7 @@ Rad = (95.0/180.0) * np.pi
 
 ## Testing
 
-![testing image](test.png)
+![testing image](test.PNG)
 
 ```python
 print('Object 1 (x,y)', '7.3', '14.6')
