@@ -1,0 +1,15 @@
+item {
+    name: "Object1",
+    id: 1,
+    display_name: "Object1"
+}
+item {
+    name: "Object2",
+    id: 2,
+    display_name: "Object2"
+}
+item {
+    name: "Object3",
+    id: 3,
+    display_name: "Object3"
+}
