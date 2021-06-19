@@ -1,6 +1,6 @@
 # Object Detection & Image Coordinates to Real World Coordinate Conversion
 
-Using tensorflow object detection api and openCV to caluclate real world
+Using tensorflow object detection api and openCV to calculate real world
 coordinates from top view with fixed height of the camera.
 
 ## Installation
